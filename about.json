@@ -1,0 +1,32 @@
+[
+    {
+        "about_id": "01",
+        "title": "Trust",
+        "img": "https://www.preceptsgroup.com/wp-content/uploads/2021/04/The-6-Great-Misconceptions-of-a-Trust.jpg"
+    },
+    {
+        "about_id": "02",
+        "title": "Love",
+        "img": "https://mrs-cook.weebly.com/uploads/2/3/0/6/23067164/920812_orig.jpg"
+    },
+    {
+        "about_id": "03",
+        "title": "Respect",
+        "img": "https://i0.wp.com/freedomafterthesharks.com/wp-content/uploads/2020/11/timage-2.jpg?ssl=1"
+    },
+    {
+        "about_id": "04",
+        "title": "Passionate",
+        "img": "https://ourculturemag.com/wp-content/uploads/2021/09/reinhart-julian-WxM465oM4j4-unsplash.jpg"
+    },
+    {
+        "about_id": "05",
+        "title": "Dedicated",
+        "img": "https://www.plataformamedia.com/wp-content/uploads/2020/08/o-que-e-fotografia-1140x694.jpg"
+    },
+    {
+        "about_id": "06",
+        "title": "Hard Work",
+        "img": "https://www.makemebetter.net/wp-content/uploads/2019/05/main_1.png"
+    }
+]

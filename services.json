@@ -1,0 +1,122 @@
+[
+    {
+        "service_id": "01",
+        "title": "Weeding Ceremony",
+        "img": "https://www.tuhinhossainphotography.com/wp-content/themes/tuhin-photography/assets/img/wedding/large/WEDDING-PHOTO_10.jpg",
+        "rating": "5",
+        "price": "10000",
+        "description": "You 've chosen your date, booked your venue and started shopping for dresses. Now you 're looking for a wedding photographer. There are a lot of styles of wedding photography out there, and while people in the industry might know these styles inside out they be confusing for couples. Remember as well that not only are you picking a style of photography, but different types of wedding photography can make different demands on your time on your wedding day.Everyone wants to keep their memorable day as a photo. If it is a wedding and engagement ceremony, then there is no space to talk about it.For wedding photography, there is must need for the best photographer and photography services. Because the wedding is the best part of life and we love it.",
+        "services": [
+            {
+                "name1": "Package-1",
+                "events1": "Holud , Wedding, Reception.",
+                "description1": "1 Photographer. Duration: 5 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 50 Copies 4R Prints."
+            },
+            {
+                "name2": "Package-2",
+                "events2": "Holud , Wedding, Reception.",
+                "description2": "1 Photographer. Duration: 6 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 100 Copies 4R Prints."
+            }
+        ]
+    },
+    {
+        "service_id": "02",
+        "title": "Birthday Ceremony",
+        "img": "https://www.littlesdreamland.nl/wp-content/uploads/2021/09/Cake-Smash-Birthday-Photography-Verjaardag-Fotoshoot-2.jpg",
+        "rating": "3",
+        "price": "4000",
+        "description": "Every year brings us new experiences. You develop in size, physical characters, and, most importantly, personality. You might have outgrown costume characters and bounces houses, but your birthday still makes you feel different and unique. Birthdays come around every year but ONCE a year. With this assertion, there is no reason not to celebrate this day. While it may not bring something valuable to others, it marks your existence, and that is what makes it significantly different from the rest of the days.  No matter how you see it, you deserve to celebrate your birthday as if an epic event has transpired. And there is nothing wrong with it. Your birthday is a sign that you have managed to live 365 days of the year successfully. You have put efforts to become the better version of you. And there is nothing wrong with letting your sentiments echo loud on your big day.",
+        "services": [
+            {
+                "name1": "Package-1",
+                "events1": "Birthday, Anniversary, Baby Shower.",
+                "description1": "1 Photographer. Duration: 3 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 50 Copies 4R Prints."
+            },
+            {
+                "name2": "Package-2",
+                "events2": "Birthday, Anniversary, Baby Shower.",
+                "description2": "1 Photographer. Duration: 6 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 100 Copies 4R Prints."
+            }
+        ]
+    },
+    {
+        "service_id": "03",
+        "title": "Sports Photography",
+        "img": "https://i0.wp.com/www.jobsinsports.com/blog/wp-content/uploads/2021/08/How-to-become-a-sports-photographer-Featured-Jobs-In-Sports.jpg?fit=1000%2C563&ssl=1",
+        "rating": "2",
+        "price": "6000",
+        "description": "Sport photographers work for wire services, newspapers, and magazines. Staff photographers to freelancers are among the positions available. These photographers camouflage themselves in VIP areas and shoot from a distance. Alternatively, assemble on the field’s sidelines to have a better view of the action. More specialized photography fields are included in sports photography. You’ll need to include portraiture, action, and group images in this section. They even shoot behind-the-scenes footage to provide a calmer counterpoint to the action. Posing and surroundings are things over which you have little to no control. As a result, camera angles and perspectives are crucial.",
+        "services": [
+            {
+                "name1": "Package-1",
+                "events1": "Car Racing, Cricket, Indoor Games",
+                "description1": "1 Photographer. Duration: 3 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 50 Copies 4R Prints."
+            },
+            {
+                "name2": "Package-2",
+                "events2": "Car Racing, Cricket, Indoor Games",
+                "description2": "1 Photographer. Duration: 6 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 100 Copies 4R Prints."
+            }
+        ]
+    },
+    {
+        "service_id": "04",
+        "title": "Tourism Photography",
+        "img": "https://st2.depositphotos.com/1177973/7549/i/950/depositphotos_75490397-stock-photo-preparing-for-travelreservation-ticket-close.jpg",
+        "rating": "5",
+        "price": "12000",
+        "description": "There’s nothing we cherish more than our travels and if we had only one thing to say about travel photography it would be this: travel photography is the best way to capture our wanderful moments to eternity and use these memories to warm up our hearts even in the darkest of times. A good travel photographer must be flexible, well-organised and outgoing. Flexible to adapt to time-related challenges (e.g. waking up early, staying up late). Well-organised to plan photographic trips to the last detail. Outgoing because, well, you can go a long way with a smile if you plan to, say, take portraits of total strangers in faraway lands. Learning a foreign language or three wouldn’t hurt either.",
+        "services": [
+            {
+                "name1": "Package-1",
+                "events1": "Inside Bangladesh.",
+                "description1": "1 Photographer. Duration: 3 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 100 Copies 4R Prints."
+            },
+            {
+                "name2": "Package-2",
+                "events2": "Outside Bangladesh.",
+                "description2": "3 Photographer. Duration: 6 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 200 Copies 4R Prints."
+            }
+        ]
+    },
+    {
+        "service_id": "05",
+        "title": "Journalism Photography",
+        "img": "https://i.ytimg.com/vi/qvgQyZKS380/maxresdefault.jpg",
+        "rating": "5",
+        "price": "15000",
+        "description": "Photojournalism is the communication of news through photographs. These images tend to appear in print newspapers and magazines as well as online media sites and microblogging platforms. A picture is worth 1,000 words and can instantly enhance the story that a news article communicates to its readers. Anyone can take a picture, but not just anyone can be a photojournalist. There are two practical pillars of photojournalism: high ethical standards and a pursuit of objective truth. While photography in its different forms may be a means of self-expression, or artfully showcase truths about the human condition, the goal of photojournalism is reporting. It seeks to use images for the purpose of communicating a story, and educating an audience.",
+        "services": [
+            {
+                "name1": "Package-1",
+                "events1": "For Newspaper",
+                "description1": "1 Photographer. Duration: 3 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 100 Copies 4R Prints."
+            },
+            {
+                "name2": "Package-2",
+                "events2": "For Television.",
+                "description2": "3 Photographer. Duration: 6 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 200 Copies 4R Prints."
+            }
+        ]
+    },
+    {
+        "service_id": "06",
+        "title": "Wild Photography",
+        "img": "https://www.outlookindia.com/outlooktraveller/public/uploads/articles/explore/wildlife_photography_feature_image.jpg",
+        "rating": "5",
+        "price": "18000",
+        "description": "Wildlife photography is a genre of photography that records the life of animals in their natural settings, like in a forest or underwater. So, wildlife photography often constitutes the images of animals in movement or action such as eating, fighting, or in flight. It also covers various organisms, including mammals, insects, plants, reptiles, rodents, and other invertebrates. Alternatively, it may also record the in-depth details of an animal’s appearance or its presence with its environment. Therefore, as an aspiring wildlife photographer, you require a sound knowledge of an animal’s behavior, habitat, and anatomical features. In addition, you have to be proficient in advanced photographic techniques and must be skilled in using various photography equipment.",
+        "services": [
+            {
+                "name1": "Package-1",
+                "events1": "Photography ",
+                "description1": "1 Photographer. Duration: 3 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only. 100 Copies 4R Prints."
+            },
+            {
+                "name2": "Package-2",
+                "events2": "Cinematography",
+                "description2": "3 Photographer. Duration: 6 Hours. Unlimited Captures. All Processed Photos. Venue Based Service Only."
+            }
+        ]
+    }
+]
