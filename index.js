@@ -67,6 +67,7 @@ async function run() {
             const equipments = await cursor.toArray();
             res.send(equipments);
         })
+        // banner api created
         app.get('/banner', async (req, res) => {
             const query = {};
             const cursor = bannerCollection.find(query);
