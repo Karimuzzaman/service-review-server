@@ -100,6 +100,7 @@ async function run() {
             const result = await reviewCollection.insertOne(review);
             res.send(result);
         });
+        // post method
         app.post('/servicesAll', async (req, res) => {
             const service = req.body;
             const result = await serviceCollection.insertOne(service);
