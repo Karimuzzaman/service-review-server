@@ -74,7 +74,7 @@ async function run() {
             const banner = await cursor.toArray();
             res.send(banner);
         });
-
+        // get api with query
         app.get('/reviews', async (req, res) => {
 
             let query = {};
