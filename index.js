@@ -53,6 +53,7 @@ async function run() {
             const servicesAllId = await serviceCollection.findOne(query);
             res.send(servicesAllId);
         })
+        // about api created
         app.get('/about', async (req, res) => {
             const query = {};
             const cursor = aboutCollection.find(query);
