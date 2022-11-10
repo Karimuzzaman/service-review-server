@@ -60,6 +60,7 @@ async function run() {
             const about = await cursor.toArray();
             res.send(about);
         })
+        // equipments api created
         app.get('/equipments', async (req, res) => {
             const query = {};
             const cursor = equipmentsCollection.find(query);
