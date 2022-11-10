@@ -107,12 +107,7 @@ async function run() {
         });
 
         // delete
-        app.delete('/reviews/:id', async (req, res) => {
-            const id = req.params.id;
-            const query = { _id: ObjectId(id) };
-            const result = await reviewCollection.deleteOne(query);
-            res.send(result);
-        })
+
 
         // for update operation.
         app.get('/reviews/:id', async (req, res) => {
@@ -121,7 +116,7 @@ async function run() {
             const review = await reviewCollection.findOne(query);
             res.send(review);
         })
-
+        // update operation
         app.put('/reviews/:id', async (req, res) => {
             const id = req.params.id;
             const filter = { _id: ObjectId(id) };
